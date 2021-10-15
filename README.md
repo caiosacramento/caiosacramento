@@ -1,4 +1,6 @@
 
+### Olá! Boas vindas <img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/Hi.gif" width="30px">
+
 Ele/Dele. Soteropolitano, 29 anos, torcedor iludido dos Knicks :basketball: e do Giants :football:, graduando em Ciência da Computação pela Universidade Federal da Bahia  
   
   
@@ -20,7 +22,6 @@ Interessado em Engenharia de Software e desenvolvimento mobile, no momento desen
     </tr>   
   </table>
 </center>  
-### Olá! Boas vindas <img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/Hi.gif" width="30px">
 
 ---
 
