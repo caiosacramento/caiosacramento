@@ -5,7 +5,7 @@ Ele/Dele. Soteropolitano, 29 anos, torcedor iludido dos Knicks :basketball: e do
   
   
 :mortar_board: Auxiliar de Pesquisador no programa de iniciação científica na UFBA
-:wink: Entusiasta de data science
+<br>:wink: Entusiasta de data science
   
 
 ### ⭐ Sobre
