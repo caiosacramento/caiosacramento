@@ -24,7 +24,7 @@ Interessado em Data Science, no momento desenvolvendo um sistema de recomenda√ß√
 </center>  
 
 ---
-###Tecnologias que estou estudando no momento:
+### Tecnologias que estou estudando no momento:
   
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
