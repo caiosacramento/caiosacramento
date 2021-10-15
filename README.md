@@ -9,9 +9,9 @@ Ele/Dele. Soteropolitano, 29 anos, torcedor iludido dos Knicks :basketball: e do
   
 
 ### ⭐ Sobre
-Atualmente estudante de Ciência da Computação na Universidade Federal da Bahia, auxiliar de pesquisador no programa de iniciação científica da UFBA na área de Análise e Implementação de Arquiteturas Web para Desenvolvimento de Sistemas de Informação Eficientes, trabalhando com python, pandas, api yahoofinance e protocolo smtp.  
+Atualmente estudante de Ciência da Computação na Universidade Federal da Bahia, auxiliar de pesquisador no programa de iniciação científica da UFBA na área de Análise e Implementação de Arquiteturas Web para Desenvolvimento de Sistemas de Informação Eficientes, trabalhando com python, pandas, mysql, api yahoofinance e protocolo smtp.  
 
-Interessado em Data Science, no momento desenvolvendo um sistema de recomendação de compra e venda de ações com dados da api do yahoofinance, utilizando python e pandas.
+Interessado em Data Science, no momento desenvolvendo um sistema de recomendação de compra e venda de ações com dados da api do yahoofinance, utilizando python, pandas e mysql.
 
 ---
 <center>
