@@ -1,10 +1,10 @@
 
 ### Olá! Boas vindas <img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/Hi.gif" width="30px">
 
-Ele/Dele. Soteropolitano, 30 anos, torcedor iludido dos Knicks :basketball: e do Giants :football:, graduando em Ciência da Computação pela Universidade Federal da Bahia  
+Ele/Dele. Soteropolitano, 31 anos, torcedor iludido dos Knicks :basketball: e do Giants :football:, graduado em Ciência da Computação pela Universidade Federal da Bahia  
   
   
-:mortar_board: Auxiliar de Pesquisador no programa de iniciação científica na UFBA
+:mortar_board: Pesquisador no projeto Digger 
 <br>:wink: Entusiasta de data science
   
 
